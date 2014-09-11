@@ -1,0 +1,29 @@
+.red {
+	background: red;
+	width: 100%;
+	height: 33%;
+	clear: both;
+}
+
+.yellow {
+	background: yellow;
+	height: 50%;
+
+}
+
+.blue {
+	background: blue;
+	float: left;
+	width: 25%;
+	height: 66%;
+}
+
+.rightside {
+	float: right;
+}
+
+.green {
+	background: green;
+	height: 17%;
+	
+}
